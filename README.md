@@ -1,9 +1,34 @@
-<<<<<<< HEAD
-# Vue 3 + TypeScript + Vite
+# Yomu
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Yomu is an early open-source manga reader prototype built with Vue and TypeScript.
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
-=======
-# yomu
->>>>>>> 282cf9dbd18c5c4f306e63afd5abc955dd80c644
+The goal of Yomu is to become a simple, beginner-friendly reader for local manga and comic files.
+
+## Current Features
+
+- Import multiple image files
+- Sort pages by filename
+- Display manga pages
+- Navigate with Previous / Next buttons
+- Navigate with keyboard arrows
+- Use Space to move to the next page
+- Restart from page 1 after the last page
+
+## Planned Features
+
+- Better reader UI
+- Dark mode improvements
+- Save reading progress
+- CBZ support
+- Library page
+- Android version in the future
+
+## Tech Stack
+
+- Vue 3
+- TypeScript
+- Vite
+
+## Project Status
+
+Very early prototype.
